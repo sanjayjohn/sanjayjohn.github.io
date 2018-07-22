@@ -114,9 +114,9 @@ p {
 
 .header .social {
     margin-bottom: 0;
-    position: absolute;
-    right: 610px;
-    top: 15px
+/*    position: absolute;
+    right: 780px;
+    top: 15px*/
 }
 
 .header .social a {
@@ -145,8 +145,8 @@ p {
 
 .header .actions {
     position: absolute;
-    right: 345px;
-    top: 80px
+    right: 5px;
+    top: 5px
 }
 
 .header .actions .fa {
@@ -154,7 +154,7 @@ p {
 }
 
 .header .actions a {
-    margin-right: 210px;
+    margin-right: 5px;
     color: #fff
 }
 
